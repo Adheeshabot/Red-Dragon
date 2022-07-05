@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//          RED DRAGON v5.0
+//          ADS EDITOR v5.0
 //
 //════════════(00)════════════════//
 
@@ -19,27 +19,27 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is ADS EDITOR🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94717756443'] //Owner number in aive msg
+global.premium = ['+94717756443'] //Owner Number info
+global.ownernomer = '+94717756443' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '😎ADHEESHA' //Owner Name
+global.botname = ' ☬A.D.S.༒BOT' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭Hi📍' //Costomize A Button Name In Alive Message
+global.btnurl = '♦️Thanks Use My Bot♦️' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬A.D.S.༒BOT࿐' //Bot Pacage Name
+global.author = '😎ADHEESHA❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = 'session' //Session Name!
+global.sessionName = 'session(10).json' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_ADS Editor Public Bot.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
